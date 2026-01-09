@@ -204,3 +204,40 @@ nav ul a{
     color: #627382;
     margin-bottom: 40px;
 }
+/* Early-access-section */
+.Early-access-section{
+    width: 1360px;
+    height: 386px;
+    margin:auto;
+    background-color: #F7F6F2;
+    margin-bottom: 120px;
+   
+
+}
+.early-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 24px;
+    padding: 80px 40px 80px 40px;
+}
+.early-content{
+    width: 1280px;
+    margin: auto;
+    gap: 16px;
+}
+.early-btn{
+    width: 1280px;
+    margin: auto;
+    gap: 16px;
+}
+.early-btn p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+.early-content h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: #001931;
+}
